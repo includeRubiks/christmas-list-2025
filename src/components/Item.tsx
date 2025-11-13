@@ -5,7 +5,7 @@ interface ListItemProps{
 
 function ListItem(props: ListItemProps){
     return(
-        <li>
+        <li className="border">
             <h3><a target="_blank" href={props.url}>{props.name}</a></h3>
         </li>
     )
