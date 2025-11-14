@@ -6,6 +6,7 @@ function App() {
       <h1>Doug's christmas list</h1>
       <ol>
         <ListItem name="Filament!" url="https://www.amazon.com/dp/B0991P3Q25"/>
+        <ListItem name="Adapter for radio" url="https://www.digikey.com/en/products/detail/te-connectivity-linx/ADP-SMAF-SMAF/1577233"/>
         <ListItem name="Motors (Get 4), for a robot" url="https://www.sparkfun.com/hobby-motor-gear.html"/>
         <ListItem name="The newest Raspberry Pi Zero" url="https://www.digikey.com/en/products/detail/raspberry-pi/SC1176/15298147"/>
         <ListItem name="Nozzles for my Ender 3!" url="https://www.amazon.com/Creality-Nozzles-3D-Printer-Extruder/dp/B093SKXHL3"/>
