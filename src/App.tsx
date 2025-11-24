@@ -19,6 +19,7 @@ function App() {
         <ListItem name="Switches for my mechanical keyboard" url="https://www.microcenter.com/product/649443/glorious-kailh-mechanical-keyboard-switches-(120-piece)"/>
         <ListItem name="Filament dehydrator so my prints don't suck" url="https://www.amazon.com/eSUN-Upgraded-Printing-Filaments-Dehydrating/dp/B0969L64TT/"/>
         <ListItem name="Ham Radio" url="https://www.dxengineering.com/parts/ysu-ft-891"/>
+        <ListItem name="Money (If you can't get anything else)" url="https://en.wikipedia.org/wiki/United_States_dollar"/>
         <ListItem name="Another printer (I guess...)" url="https://www.amazon.com/Comgrow-Creality-Ender-Aluminum-220x220x250mm/dp/B07BR3F9N6"/>      
       </ol>
     </div>
