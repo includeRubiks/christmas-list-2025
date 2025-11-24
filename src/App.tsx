@@ -21,6 +21,7 @@ function App() {
         <ListItem name="Ham Radio" url="https://www.dxengineering.com/parts/ysu-ft-891"/>
         <ListItem name="Money (If you can't get anything else)" url="https://en.wikipedia.org/wiki/United_States_dollar"/>
         <ListItem name="Another printer (I guess...)" url="https://www.amazon.com/Comgrow-Creality-Ender-Aluminum-220x220x250mm/dp/B07BR3F9N6"/>      
+        <ListItem name="Prusa Printer" url="https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer-5/"/>
       </ol>
     </div>
   )
