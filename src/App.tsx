@@ -13,6 +13,7 @@ function App() {
         <ListItem name="Adapter for radio" url="https://www.digikey.com/en/products/detail/te-connectivity-linx/ADP-SMAF-SMAF/1577233"/>
         <ListItem name="Motors (Get 4), for a robot" url="https://www.sparkfun.com/hobby-motor-gear.html"/>
         <ListItem name="The newest Raspberry Pi Zero" url="https://www.digikey.com/en/products/detail/raspberry-pi/SC1176/15298147"/>
+        <ListItem name="Synthesizer" url="https://www.amazon.com/Korg-Modular-Semi-Modular-Synthesizer-Sequencer/dp/B07MW2S1YW"/>
         <ListItem name="Expansion storage hat for home server" url="https://www.sparkfun.com/raspberry-pi-m-2-hat.html"/>
         <ListItem name="Nozzles for my Ender 3!" url="https://www.amazon.com/Creality-Nozzles-3D-Printer-Extruder/dp/B093SKXHL3"/>
         <ListItem name="Thing so my printer can print multicolor! (Get soon or the price will go up $100)" url="https://www.microcenter.com/product/685299/bambu-lab-ams-lite"/>
