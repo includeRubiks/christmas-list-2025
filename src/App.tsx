@@ -5,7 +5,7 @@ function App() {
     <div className="text-center bg-dark text-light">
       <h1>Doug's christmas list</h1>
       <ol>
-        <ListItem name="Filament!" url="https://www.amazon.com/dp/B0991P3Q25"/>
+        <ListItem name="Filament! (Get as much as you can!)" url="https://www.amazon.com/dp/B0991P3Q25"/>
         <ListItem name="Cool Book" url="https://www.amazon.com/dp/0063412640/keywords=games?tag=harpercollinsus-20"/>
         <ListItem name="Cool Gadget" url="https://www.microcenter.com/product/694665/pimoroni-explorer-starter-kit"/>
         <ListItem name="Filament holder that keeps the filament dry" url="https://www.amazon.com/gp/product/B07NP98YKY"/>
