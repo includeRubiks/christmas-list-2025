@@ -7,9 +7,11 @@ function App() {
       <ol>
         <ListItem name="Filament!" url="https://www.amazon.com/dp/B0991P3Q25"/>
         <ListItem name="Cool Book" url="https://www.amazon.com/dp/0063412640/keywords=games?tag=harpercollinsus-20"/>
+        <ListItem name="Cool Gadget" url="https://www.microcenter.com/product/694665/pimoroni-explorer-starter-kit"/>
         <ListItem name="Filament holder that keeps the filament dry" url="https://www.amazon.com/gp/product/B07NP98YKY"/>
         <ListItem name="Flexible Filament" url="https://www.microcenter.com/product/626659/inland-175mm-translucent-blue-tpu-95a-3d-printer-filament-1kg-spool-(22-lbs)"/>
         <ListItem name="Tripod" url="https://www.amazon.com/dp/B005KP473Q?tag=popularmechanics_auto-append-20&th=1"/>
+        <ListItem name="MP3 Player" url="https://www.microcenter.com/product/620644/pimoroni-pim482-pirate-audio-headphone-amp-mp3"/>
         <ListItem name="Adapter for radio" url="https://www.digikey.com/en/products/detail/te-connectivity-linx/ADP-SMAF-SMAF/1577233"/>
         <ListItem name="Motors (Get 4), for a robot" url="https://www.sparkfun.com/hobby-motor-gear.html"/>
         <ListItem name="The newest Raspberry Pi Zero" url="https://www.digikey.com/en/products/detail/raspberry-pi/SC1176/15298147"/>
